@@ -7,3 +7,8 @@ The cells of the .ipynb file can be run in order to view all th plots. A few lin
 ## Node2Vec
 This folder contans the .ipynb file to train the node embeddings. The cells of this file can be run in order. It is ideal for the .ipynb notebook to run on a GPU. 
 
+## Community Detection
+The cells of the .ipynb files can be run in order to form the communities and create files labeling nodes according to their communities. Before running the file the .keras file containing the Node2Vec model and the node_id.json file need to uploaded to the working directory of the .ipynb file. Some changes in the file locations mentioned in the .ipynb may need to be made.
+
+
+
